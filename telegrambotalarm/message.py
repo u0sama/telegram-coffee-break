@@ -26,8 +26,7 @@ class Message:
 
 def intro_message():
     intro = '\n'
-    intro += 'Your code seems to have runed smoothly and here are the results:'
-    intro += '\n---------------------------------------'
+    
     return intro
 
 def intro_message_error():
